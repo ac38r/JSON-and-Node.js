@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "description": "Lage Middag",
+    "status": "complete",
+    "category": "Matlaging"
+  },
+  {
+    "id": 2,
+    "description": "Oppvask",
+    "status": "incomplete",
+    "category": "Rengjøring"
+  }
+]
